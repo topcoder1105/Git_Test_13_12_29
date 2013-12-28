@@ -6,7 +6,7 @@
 
 #define MAX_LOADSTRING 100
 // Add More Comment
-// Add Comment
+// Pull
 // Global Variables:
 HINSTANCE hInst;								// current instance
 TCHAR szTitle[MAX_LOADSTRING];					// The title bar text
