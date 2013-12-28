@@ -5,6 +5,7 @@
 #include "Win32Start_1.h"
 
 #define MAX_LOADSTRING 100
+// Add More Comment
 // Add Comment
 // Global Variables:
 HINSTANCE hInst;								// current instance
