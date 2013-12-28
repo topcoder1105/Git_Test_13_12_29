@@ -5,8 +5,7 @@
 #include "Win32Start_1.h"
 
 #define MAX_LOADSTRING 100
-// Add More Comment
-// Pull
+
 // Global Variables:
 HINSTANCE hInst;								// current instance
 TCHAR szTitle[MAX_LOADSTRING];					// The title bar text
