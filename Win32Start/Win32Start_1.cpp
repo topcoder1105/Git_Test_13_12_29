@@ -6,6 +6,7 @@
 
 #define MAX_LOADSTRING 100
 // LastTest
+// LLastTTest
 // Global Variables:
 HINSTANCE hInst;								// current instance
 TCHAR szTitle[MAX_LOADSTRING];					// The title bar text
